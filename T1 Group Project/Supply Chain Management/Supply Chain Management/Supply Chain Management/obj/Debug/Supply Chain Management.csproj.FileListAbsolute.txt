@@ -1,0 +1,36 @@
+C:\Users\LasangaPC\source\repos\Supply Chain Management\Supply Chain Management\bin\Debug\Supply Chain Management.exe.config
+C:\Users\LasangaPC\source\repos\Supply Chain Management\Supply Chain Management\bin\Debug\Supply Chain Management.exe
+C:\Users\LasangaPC\source\repos\Supply Chain Management\Supply Chain Management\bin\Debug\Supply Chain Management.pdb
+C:\Users\LasangaPC\source\repos\Supply Chain Management\Supply Chain Management\obj\Debug\Supply Chain Management.csproj.AssemblyReference.cache
+C:\Users\LasangaPC\source\repos\Supply Chain Management\Supply Chain Management\obj\Debug\Supply_Chain_Management.Home.resources
+C:\Users\LasangaPC\source\repos\Supply Chain Management\Supply Chain Management\obj\Debug\Supply_Chain_Management.Form2.resources
+C:\Users\LasangaPC\source\repos\Supply Chain Management\Supply Chain Management\obj\Debug\Supply_Chain_Management.Form3.resources
+C:\Users\LasangaPC\source\repos\Supply Chain Management\Supply Chain Management\obj\Debug\Supply_Chain_Management.Form4.resources
+C:\Users\LasangaPC\source\repos\Supply Chain Management\Supply Chain Management\obj\Debug\Supply_Chain_Management.Properties.Resources.resources
+C:\Users\LasangaPC\source\repos\Supply Chain Management\Supply Chain Management\obj\Debug\Supply Chain Management.csproj.GenerateResource.cache
+C:\Users\LasangaPC\source\repos\Supply Chain Management\Supply Chain Management\obj\Debug\Supply Chain Management.csproj.CoreCompileInputs.cache
+C:\Users\LasangaPC\source\repos\Supply Chain Management\Supply Chain Management\obj\Debug\Supply Chain Management.exe
+C:\Users\LasangaPC\source\repos\Supply Chain Management\Supply Chain Management\obj\Debug\Supply Chain Management.pdb
+C:\Users\LasangaPC\source\repos\Supply Chain Management\Supply Chain Management\obj\Debug\Supply_Chain_Management.Form5.resources
+C:\Users\LasangaPC\source\repos\Supply Chain Management\Supply Chain Management\obj\Debug\Supply_Chain_Management.Form6.resources
+C:\Users\LasangaPC\source\repos\Supply Chain Management\Supply Chain Management\bin\Debug\MaterialSkin.dll
+C:\Users\LasangaPC\source\repos\Supply Chain Management\Supply Chain Management\obj\Debug\Supply Chain Management.csproj.CopyComplete
+C:\Users\LasangaPC\source\repos\Supply Chain Management\Supply Chain Management\bin\Debug\Guna.UI2.dll
+C:\Users\DELL\OneDrive\Desktop\T1 Group Project\Supply Chain Management\Supply Chain Management\Supply Chain Management\bin\Debug\Supply Chain Management.exe.config
+C:\Users\DELL\OneDrive\Desktop\T1 Group Project\Supply Chain Management\Supply Chain Management\Supply Chain Management\bin\Debug\Supply Chain Management.exe
+C:\Users\DELL\OneDrive\Desktop\T1 Group Project\Supply Chain Management\Supply Chain Management\Supply Chain Management\bin\Debug\Supply Chain Management.pdb
+C:\Users\DELL\OneDrive\Desktop\T1 Group Project\Supply Chain Management\Supply Chain Management\Supply Chain Management\bin\Debug\Guna.UI2.dll
+C:\Users\DELL\OneDrive\Desktop\T1 Group Project\Supply Chain Management\Supply Chain Management\Supply Chain Management\bin\Debug\MaterialSkin.dll
+C:\Users\DELL\OneDrive\Desktop\T1 Group Project\Supply Chain Management\Supply Chain Management\Supply Chain Management\obj\Debug\Supply Chain Management.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\T1 Group Project\Supply Chain Management\Supply Chain Management\Supply Chain Management\obj\Debug\Supply_Chain_Management.Home.resources
+C:\Users\DELL\OneDrive\Desktop\T1 Group Project\Supply Chain Management\Supply Chain Management\Supply Chain Management\obj\Debug\Supply_Chain_Management.Form2.resources
+C:\Users\DELL\OneDrive\Desktop\T1 Group Project\Supply Chain Management\Supply Chain Management\Supply Chain Management\obj\Debug\Supply_Chain_Management.Form3.resources
+C:\Users\DELL\OneDrive\Desktop\T1 Group Project\Supply Chain Management\Supply Chain Management\Supply Chain Management\obj\Debug\Supply_Chain_Management.Form4.resources
+C:\Users\DELL\OneDrive\Desktop\T1 Group Project\Supply Chain Management\Supply Chain Management\Supply Chain Management\obj\Debug\Supply_Chain_Management.Form5.resources
+C:\Users\DELL\OneDrive\Desktop\T1 Group Project\Supply Chain Management\Supply Chain Management\Supply Chain Management\obj\Debug\Supply_Chain_Management.Form6.resources
+C:\Users\DELL\OneDrive\Desktop\T1 Group Project\Supply Chain Management\Supply Chain Management\Supply Chain Management\obj\Debug\Supply_Chain_Management.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\T1 Group Project\Supply Chain Management\Supply Chain Management\Supply Chain Management\obj\Debug\Supply Chain Management.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Desktop\T1 Group Project\Supply Chain Management\Supply Chain Management\Supply Chain Management\obj\Debug\Supply Chain Management.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\T1 Group Project\Supply Chain Management\Supply Chain Management\Supply Chain Management\obj\Debug\Supply Chain Management.csproj.CopyComplete
+C:\Users\DELL\OneDrive\Desktop\T1 Group Project\Supply Chain Management\Supply Chain Management\Supply Chain Management\obj\Debug\Supply Chain Management.exe
+C:\Users\DELL\OneDrive\Desktop\T1 Group Project\Supply Chain Management\Supply Chain Management\Supply Chain Management\obj\Debug\Supply Chain Management.pdb
